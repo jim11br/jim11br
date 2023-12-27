@@ -1,4 +1,3 @@
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/6b/28/cd6b28345bb056db958c5a7b24277143.gif"
 <h1 align="center">Hi 👋, I'm Jimmy Brahma</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q3NXpieGxrbnZ0NDM4YW1lNjMycnF4cXMwMGhwNXB0NDhscm5zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"
