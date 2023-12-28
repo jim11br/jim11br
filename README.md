@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **machine learning and Deep learning**
 
 - 📫 How to reach me **u20cse1050@cit.ac.in**
 
